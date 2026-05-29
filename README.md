@@ -7,6 +7,9 @@ A real-time synced lyrics panel for Spotify Desktop using WebNowPlaying and LRCL
 • Lightweight (no Spotify API tokens required)
 • Designed for 2026 desktop setups
 
+Premium $2.50 
+https://neonlyrics.gumroad.com/l/neonlyricspremium
+
 Support
 
 If you enjoy this project and would like to support continued development and polish, you can do so here:
