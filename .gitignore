@@ -1,0 +1,9 @@
+SpotifyNeonLyrics/@Resources/Settings/User.inc
+SpotifyNeonLyrics/@Resources/Settings/offsets.txt
+SpotifyNeonLyrics/@Resources/Layouts/*.txt
+SpotifyNeonLyrics/@Resources/Cache/*
+!SpotifyNeonLyrics/@Resources/Cache/.gitkeep
+dist/
+__pycache__/
+SpotifyNeonLyrics/@Resources/Logs/*
+!SpotifyNeonLyrics/@Resources/Logs/.gitkeep
