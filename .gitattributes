@@ -1,0 +1,5 @@
+# Rainmeter skin files are UTF-16 LE: keep them byte-for-byte (no EOL conversion, no text diffs)
+*.ini -text
+*.inc -text
+*.lua -text
+*.rmskin binary
